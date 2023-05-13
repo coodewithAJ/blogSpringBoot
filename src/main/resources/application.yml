@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://springboot:springboot@cluster0.o3fzigs.mongodb.net/?retryWrites=true&w=majority
+      database: productdb
